@@ -1,0 +1,15 @@
+div{
+    height: 100px;
+    width: 100px;
+}
+#d1{
+    background-color: cornflowerblue;
+}
+#d2{
+    background-color: crimson;
+    margin-left: 150px;
+    margin-top: -101px;
+}
+h1{
+    text-align: center;
+}

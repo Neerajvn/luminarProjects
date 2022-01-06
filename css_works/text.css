@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Indie+Flower&display=swap');
+#a1{
+    color: red;
+}
+#a2{
+    color: green;
+}
+#a3{
+    color: yellow;
+}
+.c1{
+    color: red;
+}
+.c2{
+    color: green;
+}
+header{
+    background-color: black;
+}
+footer{
+    background-color: red;
+}
+main{
+    background-color: yellow;
+}
+#p2{
+    font-family: 'Fjalla One', sans-serif;
+    font-size: large;
+}
+#p3{
+    font-family: 'Indie Flower', cursive;
+    font-size: larger;
+}

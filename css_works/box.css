@@ -1,0 +1,14 @@
+#d1{
+    color: darkblue;
+    background-color: red;
+    height: 300px;
+    width: 500px;
+    border: black solid 5px;
+}
+#d2{
+    color: green;
+    background-color: yellow;
+    height: 300px;
+    width: 500px;
+   border: black solid 5px;
+}

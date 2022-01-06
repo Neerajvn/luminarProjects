@@ -1,0 +1,17 @@
+div{
+    width: 24%;
+    height: 481px;
+    background-color:coral;
+    border: solid black 2px;
+    float: left;
+}
+div img{
+    width: 41%;
+    margin-left: 100px;
+}
+#heading{
+    text-align: center;
+}
+#author{
+    text-align: center;
+}

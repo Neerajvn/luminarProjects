@@ -1,0 +1,29 @@
+#m1{
+    text-align: center;
+    color: white;
+}
+body{
+    background-color: black;
+}
+div{
+    width: 19%;
+    float: left;
+    background-color: black;
+    border: solid black 4px;
+}
+#a1{
+    color: white;
+}
+#a2{
+    color: white;
+    text-align: center;
+}
+#ch{
+    border: solid white 2px;
+    color: white;
+    width: 96%;
+    
+}
+div img{
+    margin-left: 50px;
+}

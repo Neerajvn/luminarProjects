@@ -1,0 +1,7 @@
+define by []
+there is no limit in size
+dupliates allowed in array
+array can posible to hold same and different type of objects
+insertion order is preserved
+calling element from array by index eg:arr[0]
+updating array element=arr[0=25000]

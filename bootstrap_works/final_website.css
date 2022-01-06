@@ -1,0 +1,235 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Genos:wght@100&family=Orbitron:wght@400;800&family=Secular+One&family=Staatliches&display=swap');#nav{
+    background-color: rgb(255, 255, 255);
+   
+    
+}
+
+.logo{
+    width: 89px;
+    height: 60px;
+    margin-top: -2px;
+    margin-left: 80px;
+}
+.log{
+    width: 151px;
+    height: 59px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 10px;
+}
+#car{
+    height: 518px;
+    width: 100%;
+}
+.d1{
+    width: 100%;
+    height: 140px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+}
+#d2{
+     width: 80%;
+     height: 80px;
+     background-color: white;
+     margin-left: 150px;
+     margin-top: 60px;
+     position: absolute;
+     font-family: 'Staatliches', cursive;
+}
+.h1{
+    text-align: center;
+}
+.col{
+    display: flex;
+    justify-content: space-evenly;
+    height: 390px;
+}
+#btn{
+    background-color: black;
+    color: white;
+    margin-left: 153px;
+    font-weight: 600;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border: 2px solid black;
+}
+#btn1{
+    background-color: black;
+    color: white;
+    margin-left: 106px;
+    font-weight: 600;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border: 2px solid black;
+}
+#btn:hover{
+    background-color: rgb(43, 43, 43);
+}
+#btn1:hover{
+    background-color: rgb(43, 43, 43);
+}
+
+.d3{
+    width: 100%;
+    height: 364px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+}
+#img4{
+    margin-left: 37px;
+    
+}
+.d4{
+    position: absolute;
+    width: 519px;
+    height: 132px;
+    margin-left: 916px;
+    margin-top: 59px;
+
+    
+    
+}
+.dd{
+    font-size: 54px;
+    font-weight: 600;
+    font-family: 'Secular One', sans-serif;;
+}
+
+.d5{
+    position: absolute;
+    margin-top: 198px;
+    margin-left: 1041px;
+    width: 217px;
+    height: 20px;
+    
+   
+}
+.d9{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.d6{
+    
+    margin-top: -123px;
+    margin-left: 915px;
+    font-family: 'Genos', sans-serif;;
+}
+.d7{
+    
+    margin-top: -48px;
+    margin-left: 1070px;
+    font-family: 'Genos', sans-serif;;
+}
+.d8{
+    
+    margin-top: -48px;
+    margin-left: 1255px;
+    font-family: 'Genos', sans-serif;;
+}
+#btn7{
+    background-color: #0094ad;
+    border: 2px solid white;
+    font-weight: 600;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    color: white;
+    
+}
+#btn7:hover{
+    background-color: white;
+    color: #0094ad;
+}
+.d10{
+    width: 100%;
+    height: 65px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+}
+#d11{
+    position: absolute;
+    margin-top: 21px;
+    margin-left: 624px;
+    font-family: 'Staatliches', cursive;
+   
+}
+#btn5{
+    background-color: black;
+    color: white;
+    margin-left: 53px;
+    font-weight: 600;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border: 2px solid black;
+    width: 128px;
+}
+h6{
+    text-align: center;
+}
+#btn5:hover{
+    background-color: rgb(43, 43, 43);
+}
+.row{
+    width: 100%;
+    height: 461px;
+    background-color: rgb(255, 255, 255);
+}
+.d12{
+    width: 100%;
+    height: 80px;
+    background-color: #181818;
+    position: relative;
+    
+}
+.d13{
+    position: absolute;
+    margin-top: 33px;
+    margin-left: 46px;
+    color: white;
+}
+
+#ic1{
+    position: absolute;
+    margin-top: 31px;
+    margin-left: 204px;
+    color: white;
+}
+#ic2{
+    position: absolute;
+    margin-top: 31px;
+    margin-left: 180px;
+    color: white;
+}
+#ic3{
+    position: absolute;
+    margin-top: 31px;
+    margin-left: 230px;
+    color: white;
+}
+#ic4{
+    position: absolute;
+    margin-top: 31px;
+    margin-left: 156px;
+    color: white;
+}
+.d17{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 10px;
+    color: white;
+    
+}
+.jk{
+    position: absolute;
+    text-align: center;
+    color: white;
+    margin-top: 35px;
+    margin-left: 648px;
+}
